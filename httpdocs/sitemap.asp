@@ -51,8 +51,6 @@ Response.Expires = -1
 				<tr><td class="links"><a href="of_interest.asp">Of Interest</a></td></tr>
 				<tr><td class="links"><a href="office.asp">Executive Committee</a></td></tr>
 				<tr><td class="links"><a href="education.asp">Education</a></td></tr>
-				<tr><td style="padding: 0 30px 0 40px;"><a href="application.asp">Scholarship Application</a></td></tr>
-				<tr><td style="padding: 0 30px 0 40px;"><a href="LoA.pdf">Letter of Attestation</a></td></tr>
 				<tr><td class="links"><a href="events.asp">Events</a></td></tr>
 				<tr><td class="links"><a href="links.asp">Links</a></td></tr>
 				<tr><td class="links"><a href="contact.asp">Contact Us</a></td></tr>
