@@ -1,4 +1,4 @@
-<%@ LANGUAGE = "VBSCRIPT" %>
+﻿<%@ LANGUAGE = "VBSCRIPT" %>
 <%
 Response.Buffer = true
 Response.CacheControl = "no-cache"
@@ -49,7 +49,6 @@ Response.Expires = -1
 
 				<tr><td class="links"><a href="default.asp">Home</a></td></tr>
 				<tr><td class="links"><a href="of_interest.asp">Of Interest</a></td></tr>
-				<tr><td style="padding: 0 30px 0 40px;"><a href="http://spreadsheets.google.com/ccc?key=pbjFzbIlkHB6UjLZc9GGaMA&hl=en">CNS Member Contact Info</a></td></tr>
 				<tr><td class="links"><a href="office.asp">Executive Committee</a></td></tr>
 				<tr><td class="links"><a href="education.asp">Education</a></td></tr>
 				<tr><td style="padding: 0 30px 0 40px;"><a href="application.asp">Scholarship Application</a></td></tr>
