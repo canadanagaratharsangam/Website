@@ -1,0 +1,14 @@
+vti_encoding:SR|utf8-nl
+vti_timelastmodified:TR|19 Jun 2006 21:01:05 -0000
+vti_extenderversion:SR|5.0.2.6790
+vti_cacheddtm:TX|19 Jun 2006 21:01:05 -0000
+vti_filesize:IR|12743
+vti_cachedlinkinfo:VX|H|http://www.gc.ca H|http://www.workdestinations.org/cgi-bin/loadui.pl H|http://www.jobbank.gc.ca/intro_en.asp H|http://jobs.gc.ca/home_e.htm H|http://www.jobsetc.ca/external_link.jsp H|http://www.jobsetc.ca/external_link.jsp H|http://www.theworkplace.ca/page2.asp H|http://www.jobsetc.ca/external_link.jsp H|http://www.jobsetc.ca/external_link.jsp H|http://www.jobsetc.ca/external_link.jsp H|http://www.jobsetc.ca/external_link.jsp H|http://www.jobsetc.ca/external_link.jsp H|http://www.jobsetc.ca/external_link.jsp H|http://www.jobsetc.ca/external_link.jsp H|http://www.youthpath.ca/yochoosegeo.jsp H|http://www.jobsetc.ca/external_link.jsp H|http://www.activemploi.com/W/I/SB.max H|http://monemploi.ca/AccessRes.max H|http://www.businessgateway.ca H|http://www.strategis.ic.gc.ca H|http://www.cbsc.org H|http://www.cfib.ca H|http://www.exportsource.ca H|http://www.chamber.ca H|http://www.cbs.gov.on.ca H|http://www.acoa.ca H|http://www.wed.gc.ca H|http://www.youth.gc.ca/yolinkjump.jsp H|http://www.youth.gc.ca/yolinkjump.jsp H|http://www.cicic.ca H|http://www.equalopportunity.on.ca H|http://www.wes.org/ca/ H|http://www.canadainternational.gc.ca/CI/main_menu-en.aspx
+vti_cachedsvcrellinks:VX|NHHS|http://www.gc.ca NHHS|http://www.workdestinations.org/cgi-bin/loadui.pl NHHS|http://www.jobbank.gc.ca/intro_en.asp NHHS|http://jobs.gc.ca/home_e.htm NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.theworkplace.ca/page2.asp NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.youthpath.ca/yochoosegeo.jsp NHHS|http://www.jobsetc.ca/external_link.jsp NHHS|http://www.activemploi.com/W/I/SB.max NHHS|http://monemploi.ca/AccessRes.max NHHS|http://www.businessgateway.ca NHHS|http://www.strategis.ic.gc.ca NHHS|http://www.cbsc.org NHHS|http://www.cfib.ca NHHS|http://www.exportsource.ca NHHS|http://www.chamber.ca NHHS|http://www.cbs.gov.on.ca NHHS|http://www.acoa.ca NHHS|http://www.wed.gc.ca NHHS|http://www.youth.gc.ca/yolinkjump.jsp NHHS|http://www.youth.gc.ca/yolinkjump.jsp NHHS|http://www.cicic.ca NHHS|http://www.equalopportunity.on.ca NHHS|http://www.wes.org/ca/ NHHS|http://www.canadainternational.gc.ca/CI/main_menu-en.aspx
+vti_cachedneedsrewrite:BR|false
+vti_cachedhasbots:BR|false
+vti_cachedhastheme:BR|false
+vti_cachedhasborder:BR|false
+vti_charset:SR|windows-1252
+vti_lineageid:SR|{D0CC36AD-BAA3-4A6C-8E47-57B97B2D3500}
+vti_backlinkinfo:VX|

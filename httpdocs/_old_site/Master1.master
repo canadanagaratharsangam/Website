@@ -1,0 +1,55 @@
+<%@ Master Language="VB" CodeFile="Master1.master.vb" Inherits="Master1" %>
+<%@ Register Src="Photo.ascx" TagName="Photo" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="App_Themes/Theme1/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <title>Canada Nagarathar Sangam</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <h1>
+                Canada Nagarathar Sangam</h1>
+            <h2>
+                Ondru pattal undu valvu, Otrumai neengidil anaivarkum thalvu</h2>
+        </div>
+        <div class="sidebar">
+            <uc1:Photo ID="Photo1" runat="server" />
+            &nbsp;<br />
+            <br />
+            &nbsp;<asp:Image ID="Image1" runat="server" ImageUrl="~/images/FastFact.JPG" /><br />
+            <span style="font-size: 0.65em">Move your mouse over "Fast Fact" to learn something
+                about Nagarathars</span></div>
+        <div id="totalHolder">
+            <div class="footerOrienter">
+                <asp:Menu ID="Menu1" runat="server" CssClass="menua" DataSourceID="SiteMapDataSource1"
+                    Orientation="Horizontal" StaticDisplayLevels="3" ForeColor="#C00000">
+                    <StaticHoverStyle BackColor="#FFFFC0" />
+                </asp:Menu>
+            </div>
+            <div class="main">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <br />
+            <div class="footer">
+                <asp:Menu ID="Menu2" runat="server" CssClass="menub" DataSourceID="SiteMapDataSource1"
+                    Orientation="Horizontal" StaticDisplayLevels="3"
+                    Style="z-index: 100" ForeColor="#C00000">
+                    <StaticHoverStyle BackColor="#FFFFC0" />
+                </asp:Menu>
+                <br />
+                <br />
+                Copyright (c) 2006, CanadaNagaratharSangam.com<br />
+                For feedback/suggestions click
+                <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="mailto:editor@canadanagaratharsangam.com">here</asp:HyperLink>
+                <br />
+                Site best viewed in IE, minimum 1024x768 resolution<br />
+                Website created by Aishwar Muthuraman<br />
+                <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+            </div>
+        </div>
+    </form>
+</body>
+</html>

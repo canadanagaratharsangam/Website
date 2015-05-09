@@ -1,0 +1,168 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD><link href="App_Themes/Theme1/StyleSheet.css" rel="stylesheet" type="text/css" /><title>
+	Canada Nagarathar Sangam Home
+</title><style type="text/css">
+	.ctl00_Menu1_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_Menu1_1 { color:#C00000;text-decoration:none; }
+	.ctl00_Menu1_2 { color:#C00000; }
+	.ctl00_Menu1_3 {  }
+	.ctl00_Menu1_4 { background-color:#FFFFC0; }
+	.ct100_Menu1_5 {  }
+	.ct100_Menu1_6 {  }
+	.ct100_Menu1_7 {  }
+	.ctl00_Menu2_0 { background-color:white;visibility:hidden;display:none;position:absolute;left:0px;top:0px; }
+	.ctl00_Menu2_1 { color:#C00000;text-decoration:none; }
+	.ctl00_Menu2_2 { color:#C00000; }
+	.ctl00_Menu2_3 {  }
+	.ctl00_Menu2_4 { background-color:#FFFFC0; }
+	.ct100_Menu2_5 {  }
+	.ct100_menu2_6 {  }
+	.ct100_Menu2_7 {  }
+
+</style>
+  
+  
+  <script type="text/javascript">
+function setfocus() {
+	document.form1.name.focus();
+}
+</script>
+<script >
+function validationform1()
+{
+  var name=document.form1.name;
+  var mail=document.form1.mail_id;
+  var phone=document.form1.phone;
+  
+	if (name.value == "")
+    {
+        window.alert("Please enter your name.");
+        name.focus();
+        return false;
+    }
+
+    if (mail.value == "")
+	{
+		window.alert("Please enter an email address.");
+		mail.focus();
+		return false;
+	}
+	if (mail.value.indexOf("@", 0) < 0)
+    {
+        window.alert("Please enter a valid e-mail address.");
+        mail.focus();
+        return false;
+    }
+    if (mail.value.indexOf(".", 0) < 0)
+    {
+        window.alert("Please enter a valid e-mail address.");
+        mail.focus();
+        return false;
+    }
+	function ValidateNo(NumStr, String)
+{    
+	for(var Idx=0; Idx<NumStr.length; Idx++)   
+	{        
+	  var Char = NumStr.charAt(Idx);       
+	  var Match = false;        
+	  for(var Idx1=0; Idx1<String.length; Idx1++)       
+	  {            
+		if(Char == String.charAt (Idx1))                
+		Match = true;        }       
+		if (!Match)            
+		return false;    
+	 }    
+		return true;
+} 
+
+    
+
+    if  (phone.value == "")
+    {
+        window.alert("Please enter your telephone number.");
+        phone.focus();
+        return false;
+    }
+	if(!ValidateNo(phone.value,"1234567890+- "))
+	{
+	  window.alert("Please enter numbers only.");
+	  phone.focus();
+	  return false;
+	}
+	
+}
+</script>
+<!-- <script type="text/javascript">
+function getHref()
+{
+    return document.location.default.aspx;
+}
+</script>
+ --> </HEAD>
+ <BR>
+
+ <H1><FONT COLOR="#330033"><U><CENTER>CONTACT US</CENTER></U></H1>
+ <BODY >
+ <form action="mailto:editor@canadanagaratharsangam.com?subject=CNS queries" method=post enctype="text/plain"  name="form1" onSubmit=" return validationform1();">
+ <br>
+ <BR>
+  <!-- <table width="100%" cellspacing="2" cellpadding="2" style="border:solid;border-width:1px;border-color:#FEC3A2;"> -->
+	 If you have any queries regarding Immigration Procedures,Career Counselling or  need help settling down in Canada as a new immigrant,need a ride from the airport or to any Nagarathar get togethers just fill the form below & send it to us.We will try to assist you.
+
+<BR><BR>
+
+
+<table width="100%" cellspacing="2" cellpadding="2" height="100%" border="1" bordercolor="#330066">
+       <td width="100%"  height="35px" colspan="3" align="left" background="images/bar.gif" class="redback" ><strong>&nbsp;POST&nbsp;YOUR&nbsp;QUESTION : </strong></td>
+    
+  <tr>
+  
+    <td  align="justify" class="td_text" valign="top" bgcolor="#FFFFFF"><table width="100%" align="center" cellpadding="2" cellspacing="2" class="admin_listing">
+      <tr>
+        <td colspan="3" class="notify"></td>
+      </tr>
+	  <!-- <tr>
+        <th height="20" colspan="3" class="ontab1"><U>Contact Us</U> </th>
+      </tr>
+ -->
+	
+      <tr>
+        <td width="23%" nowrap="nowrap">Subject</td>
+        <td width="2%">:</td>
+        <td width="75%"><input name="question_title" type="text" size="40" /></td>
+      </tr>
+      <tr>
+        <td nowrap="nowrap"> Your Name</td>
+        <td>:</td>
+        <td><input name="name" type="text" size="40" /><span style="color:red"/>&nbsp*&nbsp</td>
+      </tr>
+      <tr>
+        <td nowrap="nowrap"> Your Mail Id </td>
+        <td width="2%">:</td>
+        <td><input name="mail_id" type="text" id="mail_id" size="40" /><span style="color:red"/>&nbsp*&nbsp</td>
+      </tr>
+	  <tr><td nowrap="nowrap"> Phone Number</td>
+	  <td>:</td>
+	  <td><input name="phone" type="text" size="20" /><span style="color:red"/>&nbsp*&nbsp</td>
+	  </tr>
+      <tr>
+        <td nowrap="nowrap" > Message</td>
+        <td>:</td>
+        <td><textarea id="question" name="question" rows="9"  cols="60"></textarea> </td>
+      </tr>
+      <tr>
+        <td height="28" align="right">&nbsp;</td>
+        <td height="28">&nbsp;</td>
+        <td height="28"><input type="submit" name="Submit" value="Submit" class="abutt" />          </td>
+      </tr>
+    </table>
+    </form></td>
+  </tr>
+
+</table>
+<br>
+<a href = "/default.aspx"><CENTER>Home</CENTER></a>
+ </BODY>
+ 
+</HTML>
