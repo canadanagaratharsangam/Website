@@ -96,6 +96,11 @@ Response.Expires = -1
                                                 <td width="24">&nbsp;</td>
                                                 <td width="378">
                                                     <div class="eventSection">
+                                                         <div class="eventMonth">April 2015</div>
+                                                        <ul>
+                                                            <li>The Bhajan for April took place at Chinnameyappan and Sala's home in Brampton.</li>
+                                                            <li>CNS is introducing a new initiative called "Sponsor a Student". More information can be found <a href="sponsorship.asp">here</a>.</li>
+                                                        </ul>
                                                         <div class="eventMonth">March 2015</div>
                                                         <ul>
                                                             <li>The Bhajan for March took place at Drs. Yegappan and Muthulakshmi's home in Niagara Falls.</li>
