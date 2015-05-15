@@ -1,4 +1,4 @@
-<%@ LANGUAGE = "VBSCRIPT" %>
+﻿<%@ LANGUAGE = "VBSCRIPT" %>
 <%
 Response.Buffer = true
 Response.CacheControl = "no-cache"
@@ -31,7 +31,7 @@ Const cdoSMTPServer = "http://schemas.microsoft.com/cdo/configuration/smtpserver
 Const cdoSMTPServerPort = "http://schemas.microsoft.com/cdo/configuration/smtpserverport"
 Const cdoSMTPConnectionTimeout  = "http://schemas.microsoft.com/cdo/configuration/smtpconnectiontimeout"
 Const cdoSMTPAuthenticate = "http://schemas.microsoft.com/cdo/configuration/smtpauthenticate"
-Const cdoBasic = 1
+Const cdoNoAuthentication = 0
 Const cdoSendUserName = "http://schemas.microsoft.com/cdo/configuration/sendusername"
 Const cdoSendPassword = "http://schemas.microsoft.com/cdo/configuration/sendpassword"
 
@@ -49,9 +49,7 @@ With Fields
 	.Item(cdoSMTPServer)            = "localhost"
 	.Item(cdoSMTPServerPort)        = 25
 	.Item(cdoSMTPConnectionTimeout) = 10
-	.Item(cdoSMTPAuthenticate)      = cdoBasic
-	.Item(cdoSendUserName)          = "nsna_rep@canadanagaratharsangam.com"
-	.Item(cdoSendPassword)          = "cns1"
+	.Item(cdoSMTPAuthenticate)      = cdoNoAuthentication
 	.Update
 End With
 
