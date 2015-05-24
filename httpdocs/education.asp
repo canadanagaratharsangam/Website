@@ -61,7 +61,7 @@ Response.Expires = -1
 				<tr>
 					<td style="padding: 0 30px 0 24px;">
 
-<p><b>News</b></p>
+<!--<p><b>News</b></p>
 Dear Recipients,
 <br><br>
 All funds have now been disbursed through the Maitri agency in India.
@@ -82,11 +82,11 @@ Thank you.
 <p>In order to be considered, the student must be a resident of India and be registered as a full-time student in any registered college (or) university in India.</p>
 <p>In their selection process, the Education Committee considers academic performance and family income, among other things.</p>
 <p>Applications are proccessed in the order they are received, however, preference is given to past scholarship recipients.</p>
-<p>For a given year, each selected candidate will receive a scholarship of <b>Rs. 5,000</b>.</p>
+<p>For a given year, each selected candidate will receive a scholarship of <b>Rs. 5,000</b>.</p>-->
 
-<!-- ** 2014 MESSAGE
+<!-- ** 2014 MESSAGE -->
 
-<p><i>Applications for 2014 CNS Scholarships are now being accepted, until July 31st, 2014.</i></p>
+<p><b><i>Applications for 2015 CNS Scholarships are now being accepted, until July 31st, 2015.</i></b></p>
 
 <p>Please read the following information, and start the application process at the bottom of this page.</p>
 
@@ -100,7 +100,7 @@ Thank you.
 -->
 
 
-<!-- ***2014 APPLICATION INFORMATION PAGE***
+<!-- ***2014 APPLICATION INFORMATION PAGE*** -->
 
 <p><b>Online Submission</p></b>
 
@@ -130,7 +130,7 @@ Thank you.
 			<li>12th Standard Mark Sheet.
 			<li>Copy of college ID (or) bonafide certificate (or) college admission fee receipt. (An allotment letter will not be considered)
 		</ul>
-<!-- </li>
+ </li>
 	<li> <b>Upper Year Students</b>
 		<ul>
 			<li>Attested scanned copies of the previous year's mark sheet (ie: for the previous 2 semesters) for which exam results have been published.</li>
@@ -138,23 +138,21 @@ Thank you.
 		</ul>
 	</li>
 	<li>Mark sheets in .txt or .doc formats will not be considered</li>
-	<li align="left">Additional supporting documents may be submitted in a <b>single</b> email to education@canadanagartharsangam.com, with the  student's <b>application number</b> in the subject line.</li>
+	<li align="left">Additional supporting documents may be submitted in a <b>single</b> email to education@canadanagartharsangam.com, with the  student's <b>application number</b> in the subject line (Application number will be sent to the student by education committee after reviewing the application).</li>
 </ul>
 
 <p><b>Application Review Process</p></b>
 
 <ul>
-	<li>Processing of applications will take approximately 3 months after the closing of the 2014 application window, so expect receipt of cheques by November 2014.
+	<li>Processing of applications will take approximately 3 months after the closing of the 2014 application window, so expect receipt of cheques by November 2015.
 	<li>Students must confirm, by email, receipt of cheque, in order to remain eligible for future scholarships.
 </ul>
 
-****2014 APPLICATION SUBMISSION****
+<!--****2015 APPLICATION SUBMISSION****-->
 
-<p><b><i>Submit an Online Application</p></i></b>
+<p><b>Start the application process <i><a href="application.asp">here</a></i></b></p>
 
-<p>Start the application process <a href="https://quilvis.wufoo.com/forms/cns-2014-scholarship-application-form/">here</a>.</p>
-
-<p>**Download a "Letter of Attestation" form <a href="Scholarship-docs/L-of-A-2014.pdf">here</a>, to be completed and submitted with your online application**</p>
+<p>**Download a "Letter of Attestation" form <b><i><a href="Scholarship-docs/L-of-A-2015.pdf">here</a></i></b>, to be completed and submitted with your online application**</p>
 
 <p>Good Luck to all applicants!</p>
 
@@ -190,6 +188,8 @@ Thank you.
 	<br>
 						<p><b>Past Disbursements</b>
 						<br><br>
+						<a href="scholarship-lists/2014-recipient-list.html">2013-2014 CNS Scholarship Recipient List</a>
+						<br>
 						<a href="Scholarship-lists/2013-CNS-Scholarship-Recipient-List.htm">2012-2013 CNS Scholarship Recipient List</a>
 						<br>
 						<a href="articles/education_201112r.pdf">2011-2012 CNS Scholarship Recipient List</a>
